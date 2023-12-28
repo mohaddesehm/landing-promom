@@ -45,7 +45,7 @@ const HamburgerMenu: NextPage<HamburgerMenuType> = ({ onClose }) => {
           <img
             className="relative w-[1.75rem] h-[2rem] object-cover"
             alt=""
-            src="/logo1@2x.png"
+            src="/logo@2x.png"
           />
           <div className="w-[2.63rem] h-[0.5rem] flex flex-row items-end justify-start gap-[0.06rem]">
             <img
@@ -56,37 +56,37 @@ const HamburgerMenu: NextPage<HamburgerMenuType> = ({ onClose }) => {
             <img
               className="relative w-[0.33rem] h-[0.45rem] object-cover"
               alt=""
-              src="/vector1@2x.png"
+              src="/vector@2x.png"
             />
             <img
               className="relative w-[0.31rem] h-[0.36rem] object-cover"
               alt=""
-              src="/vector2@2x.png"
+              src="/vector@2x.png"
             />
             <img
               className="relative w-[0.14rem] h-[0.44rem] object-cover"
               alt=""
-              src="/vector3@2x.png"
+              src="/vector@2x.png"
             />
             <img
               className="relative w-[0.2rem] h-[0.34rem] object-cover"
               alt=""
-              src="/vector4@2x.png"
+              src="/vector@2x.png"
             />
             <img
               className="relative w-[0.3rem] h-[0.36rem] object-cover"
               alt=""
-              src="/vector5@2x.png"
+              src="/vector@2x.png"
             />
             <img
               className="relative w-[0.32rem] h-[0.36rem] object-cover"
               alt=""
-              src="/vector6@2x.png"
+              src="/vector@2x.png"
             />
             <img
               className="relative w-[0.14rem] h-[0.44rem] object-cover"
               alt=""
-              src="/vector7@2x.png"
+              src="/vector@2x.png"
             />
           </div>
         </div>

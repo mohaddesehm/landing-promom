@@ -31,7 +31,7 @@ const Home: NextPage = () => {
         <QuestionContainer />
       </section>
       <QuestionFormContainer1 />
-      <section className="bg-main-green-3 box-border w-[90rem] flex flex-col items-center justify-center pt-[3.75rem] px-[5.13rem] pb-[2rem] gap-[2rem] border-t-[1px] border-solid border-main-stroke">
+      <section className="self-stretch bg-main-green-3 flex flex-col items-center justify-center pt-[3.75rem] px-[5.13rem] pb-[2rem] gap-[2rem] border-t-[1px] border-solid border-main-stroke">
         <footer className="self-stretch flex flex-row items-center justify-between text-left text-[1rem] text-text-primary-black-100 font-landing-h9-input-titles sm:flex-col md:flex-col">
           <div className="w-[54.38rem] flex flex-col items-start justify-start gap-[1rem]">
             <div className="flex flex-row items-start justify-start py-[0rem] pr-[11.25rem] pl-[0rem]">
@@ -51,37 +51,37 @@ const Home: NextPage = () => {
                     <img
                       className="relative w-[0.33rem] h-[0.45rem] object-cover"
                       alt=""
-                      src="/vector1@2x.png"
+                      src="/vector@2x.png"
                     />
                     <img
                       className="relative w-[0.31rem] h-[0.36rem] object-cover"
                       alt=""
-                      src="/vector2@2x.png"
+                      src="/vector@2x.png"
                     />
                     <img
                       className="relative w-[0.14rem] h-[0.44rem] object-cover"
                       alt=""
-                      src="/vector3@2x.png"
+                      src="/vector@2x.png"
                     />
                     <img
                       className="relative w-[0.2rem] h-[0.34rem] object-cover"
                       alt=""
-                      src="/vector4@2x.png"
+                      src="/vector@2x.png"
                     />
                     <img
                       className="relative w-[0.3rem] h-[0.36rem] object-cover"
                       alt=""
-                      src="/vector5@2x.png"
+                      src="/vector@2x.png"
                     />
                     <img
                       className="relative w-[0.32rem] h-[0.36rem] object-cover"
                       alt=""
-                      src="/vector6@2x.png"
+                      src="/vector@2x.png"
                     />
                     <img
                       className="relative w-[0.14rem] h-[0.44rem] object-cover"
                       alt=""
-                      src="/vector7@2x.png"
+                      src="/vector@2x.png"
                     />
                   </div>
                 </div>

@@ -21,7 +21,7 @@ const FilteredCardForm: NextPage = () => {
           <img
             className="relative w-[1.5rem] h-[1.5rem] overflow-hidden shrink-0 object-cover"
             alt=""
-            src="/nameminus@2x.png"
+            src="/landing-icons@2x.png"
           />
         </div>
       </div>

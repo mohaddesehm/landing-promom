@@ -9,17 +9,17 @@ const BottomFooter: NextPage = () => {
           <img
             className="relative w-[2rem] h-[2rem] overflow-hidden shrink-0 object-cover"
             alt=""
-            src="/namefacebook@2x.png"
+            src="/social-media-buttons@2x.png"
           />
           <img
             className="relative w-[2rem] h-[2rem] overflow-hidden shrink-0 object-cover"
             alt=""
-            src="/nameinstagram@2x.png"
+            src="/social-media-buttons@2x.png"
           />
           <img
             className="relative w-[2rem] h-[2rem] overflow-hidden shrink-0 object-cover"
             alt=""
-            src="/namelinkedin@2x.png"
+            src="/social-media-buttons@2x.png"
           />
           <img
             className="relative w-[2rem] h-[2rem] overflow-hidden shrink-0 object-cover hidden"
@@ -29,7 +29,7 @@ const BottomFooter: NextPage = () => {
           <img
             className="relative w-[2rem] h-[2rem] overflow-hidden shrink-0 object-cover hidden"
             alt=""
-            src="/social-media-buttons1@2x.png"
+            src="/social-media-buttons@2x.png"
           />
         </div>
         <span className="flex-1 relative leading-[1.25rem]">
