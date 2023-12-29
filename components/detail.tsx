@@ -17,7 +17,7 @@ const Detail: NextPage<DetailType> = ({ title }) => {
         <img
           className="relative w-[1.5rem] h-[1.5rem] overflow-hidden shrink-0 object-cover"
           alt=""
-          src="/landing-icons@2x.png"
+          src="/landing-icons1@2x.png"
         />
       </div>
     </div>

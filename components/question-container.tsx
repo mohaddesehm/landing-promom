@@ -14,12 +14,12 @@ const QuestionContainer: NextPage = () => {
           <img
             className="absolute top-[0.5rem] left-[4.5rem] rounded-181xl w-[3rem] h-[3rem] object-cover"
             alt=""
-            src="/avatar@2x.png"
+            src="/avatar1@2x.png"
           />
           <img
             className="absolute top-[0rem] left-[2rem] rounded-181xl w-[3.5rem] h-[3.5rem] object-cover"
             alt=""
-            src="/avatar@2x.png"
+            src="/avatar2@2x.png"
           />
         </div>
         <div className="w-[48rem] flex flex-col items-center justify-start gap-[0.5rem]">

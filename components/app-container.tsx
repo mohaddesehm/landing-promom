@@ -56,7 +56,7 @@ const AppContainer: NextPage = () => {
                         <img
                           className="relative w-[1.5rem] h-[1.5rem] overflow-hidden shrink-0 object-cover"
                           alt=""
-                          src="/icons-sidebar@2x.png"
+                          src="/icons-sidebar1@2x.png"
                         />
                       </div>
                       <div className="self-stretch flex-1 relative leading-[1.5rem] flex items-center">
@@ -75,7 +75,7 @@ const AppContainer: NextPage = () => {
                         <img
                           className="relative rounded-8xs w-[1.5rem] h-[1.5rem] overflow-hidden shrink-0 object-cover"
                           alt=""
-                          src="/icons-sidebar@2x.png"
+                          src="/icons-sidebar2@2x.png"
                         />
                       </div>
                       <div className="self-stretch flex-1 relative leading-[1.5rem] flex items-center">
@@ -94,7 +94,7 @@ const AppContainer: NextPage = () => {
                         <img
                           className="relative w-[1.5rem] h-[1.5rem] overflow-hidden shrink-0 object-cover"
                           alt=""
-                          src="/icons-sidebar@2x.png"
+                          src="/icons-sidebar3@2x.png"
                         />
                       </div>
                       <div className="self-stretch flex-1 relative leading-[1.5rem] flex items-center">{`Q&A`}</div>
@@ -111,7 +111,7 @@ const AppContainer: NextPage = () => {
                         <img
                           className="relative w-[1.5rem] h-[1.5rem] overflow-hidden shrink-0 object-cover"
                           alt=""
-                          src="/icons-sidebar@2x.png"
+                          src="/icons-sidebar4@2x.png"
                         />
                       </div>
                       <div className="self-stretch flex-1 relative leading-[1.5rem] flex items-center">
